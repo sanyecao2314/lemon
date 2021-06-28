@@ -1322,7 +1322,7 @@
 
     <servlet.version>3.0.1</servlet.version>
     <jsp.version>2.1</jsp.version>
-    <jetty.version>7.6.16.v20140903</jetty.version>
+    <jetty.version>9.4.34.v20201102</jetty.version>
 
     <spring.version>4.0.9.RELEASE</spring.version>
     <!--
